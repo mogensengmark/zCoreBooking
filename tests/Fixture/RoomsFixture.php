@@ -21,8 +21,8 @@ class RoomsFixture extends TestFixture
             [
                 'room_id' => 1,
                 'room_name' => 'Lorem ipsum dolor sit amet',
-                'created' => '2025-05-22 18:02:13',
-                'modified' => '2025-05-22 18:02:13',
+                'created' => '2025-05-22 18:33:42',
+                'modified' => '2025-05-22 18:33:42',
             ],
         ];
         parent::init();
